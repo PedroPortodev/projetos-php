@@ -1,0 +1,19 @@
+<script>
+  
+  // const a let são locais e só funcionam no escopo onde foi criado
+const y = 1;
+
+{
+  {
+    {
+      {
+        y = 0
+        cosole.log('> existe y', y)
+      }
+    }
+  }
+}
+
+console.log('> existe y depois do bloco? ', y)
+
+</script>
