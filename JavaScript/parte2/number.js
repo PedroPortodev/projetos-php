@@ -5,4 +5,4 @@ NaN // Not a Number
 Infinity // infinito
 */
 
-console.log(infinity)
+console.log(infinity) 

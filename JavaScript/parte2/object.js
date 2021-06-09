@@ -12,6 +12,6 @@
     name: "Mark",
     idade: 36,
     andar: function() {
-      console.log('andar')
+      console.log('andar') 
     }
   })
