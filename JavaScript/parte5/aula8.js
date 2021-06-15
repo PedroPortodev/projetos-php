@@ -1,5 +1,5 @@
-dunction sayMyName(name) {
-  console.log('antes de execultar a função callback')
+function sayMyName(name) {
+  console.log('antes de execultar a funcao callback')
 
   name()
 
